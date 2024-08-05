@@ -1,4 +1,4 @@
-/* Don't touch this */
+/* Don't touch this -- I will touch this >:3 */
 
 html {
     font-size: var(--font-size) !important;
@@ -50,14 +50,14 @@ html {
 }
 
 .theme-dark .members-1998pB {
-    background-color: var(--main-transparency);
+    background-color: rgba(0, 0, 0, 0);
 }
 
 .theme-dark .chat>.content {
     background-color: rgba(0, 0, 0, 0);
 }
 .theme-dark .chat {
-    background-color: var(--main-transparency);
+    background-color: rgba(0, 0, 0, 0);
 }
 .theme-dark .friends-table, .theme-dark .messages-wrapper {
     background-color: rgba(0, 0, 0, 0);
